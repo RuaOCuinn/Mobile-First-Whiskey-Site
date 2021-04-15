@@ -4,6 +4,7 @@ body {
 
 /* Containers */
 
+<<<<<<< HEAD
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
@@ -16,6 +17,9 @@ body {
     background-color: #eec802;
     border-color: #eec802;
 }
+=======
+.alert-container {}
+>>>>>>> 30eea5799566aeb69ff6b836b8ec15bb2bb599cf
 
 .callout-container {
     height: 100vh;
@@ -63,6 +67,7 @@ body {
     width: 35px;
 }
 
+<<<<<<< HEAD
 /* Navbar */
 
 .navalert-container {
@@ -93,6 +98,8 @@ body {
     font-weight: bold;
 }
 
+=======
+>>>>>>> 30eea5799566aeb69ff6b836b8ec15bb2bb599cf
 /* Jumbotron */
 
 .jumbotron {
